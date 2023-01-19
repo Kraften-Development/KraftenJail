@@ -1,0 +1,24 @@
+Prefix: "&8[&f&lJAIL&8]"
+
+Announce:
+  onJail: "&7Spilleren &c<player> &7blev sat i jail af &c<guard> &7med grunden: &c<reason> <rank>"
+
+Messages:
+  configCreateSuccess: ""
+  configCreateError: ""
+  fileCreateSuccess: ""
+  fileCreateError: ""
+  fileExists: ""
+
+BlockedCommands:
+  - /spawn
+  - /kaution
+
+JailTimers:
+  SlagFange:
+    display name: "Slag på fange"
+    material: iron sword
+    slot: 20
+    c: 240
+    b: 360
+    a: 480

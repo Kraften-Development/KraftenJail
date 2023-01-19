@@ -1,0 +1,9 @@
+name: Jail
+version: '${project.version}'
+main: dk.kraften.jail.Main
+api-version: 1.19
+commands:
+  jail:
+    aliases:
+      - ej
+      - iso
