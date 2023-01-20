@@ -1,14 +1,11 @@
 Prefix: "&8[&f&lJAIL&8]"
 
-Announce:
+Announces:
   onJail: "&7Spilleren &c<player> &7blev sat i jail af &c<guard> &7med grunden: &c<reason> <rank>"
 
 Messages:
-  configCreateSuccess: ""
-  configCreateError: ""
-  fileCreateSuccess: ""
-  fileCreateError: ""
-  fileExists: ""
+  configReloadSuccess: "&7Configen &b<configName> &7blev reloaded"
+  configReloadError: "&7Der gik noget galt ved reload af config &b<configName>"
 
 BlockedCommands:
   - /spawn
