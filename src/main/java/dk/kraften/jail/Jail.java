@@ -20,6 +20,7 @@ public final class Jail extends JavaPlugin {
         instance = this;
         loadConfigs();
         locationManager = new LocationManager(locationConfig);
+        loadCommands();
     }
 
     @Override
