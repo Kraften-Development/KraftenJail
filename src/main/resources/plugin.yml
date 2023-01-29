@@ -1,13 +1,4 @@
 name: Jail
 version: '${project.version}'
-main: dk.kraften.jail.Main
+main: dk.kraften.jail.Jail
 api-version: 1.18
-commands:
-  jail:
-    aliases:
-      - ej
-      - iso
-  jailadmin:
-    aliases:
-      - ejadmin
-      - isoadmin
