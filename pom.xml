@@ -16,6 +16,17 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <organization>
+        <name>Kraften-Development</name>
+        <url>https://github.com/Kraften-Developmentb</url>
+    </organization>
+
+    <scm>
+        <url>https://github.com/Kraften-Developmentb/KraftenJail/</url>
+        <connection>scm:git:git://github.com:Kraften-Developmentb/KraftenJail.git</connection>
+        <developerConnection>scm:git:git@github.com:Kraften-Developmentb/KraftenJail.git</developerConnection>
+    </scm>
+         
     <build>
         <plugins>
             <plugin>
